@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>index</title>
+</head>
+<body>
+    <h1>Manual de Sobrevivência em Uma Segunda-Feira</h1>
+<h2>Dicas infalíveis (ou quase) para enfrentar o dia mais temido da semana</h2>
+
+    <p>Segunda-feira. Só de ouvir esse nome, muita gente já sente uma leve dor de cabeça e uma vontade irresistível de continuar abraçado com o travesseiro. Mas calma! Nem tudo está perdido. Com o plano certo, é possível transformar esse vilão da semana em apenas mais um dia comum — ou, quem sabe, até em algo divertido (ok, talvez isso seja um pouco otimista).</p>
+
+    <p>A primeira dica é: café. E não estamos falando de uma xícara, mas de uma poção mágica capaz de trazer o ser humano de volta à vida. Em seguida, vem a música. Uma playlist animada, com batidas que fariam até seu gato dançar, pode ser o empurrão que faltava para começar o dia. E, se nada disso funcionar, lembre-se: a sexta-feira está mais próxima do que estava ontem. Segure firme, você vai sobreviver!</p>
+
+    <p>Fonte: 30 Frases Engraçadas para Começar a Segunda-Feira com um Sorriso - Frases do Bem.</p>
+    <p>Disponível em: 
+        <a href="https://frasesdobem.com/bom-dia-segunda-engracado/?utm_source=chatgpt.com" target="_blank">
+            https://frasesdobem.com/bom-dia-segunda-engracado/
+        </a>
+    </p>
+</body>
+</html>
